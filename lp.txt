@@ -18,7 +18,7 @@
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://imgstore.io/images/2024/11/09/faviconkoiberputar.gif" />
   <link rel="canonical" href="https://jewelerysoftware.com/" />
-  <link rel="amphtml" href="https://raw.githubusercontent.com/killuaa999/landingpage/refs/heads/main/amp.txt" />
+  <link rel="amphtml" href="amp.html" />
   <!-- start preload -->
   <link rel="preload" href="https://goodimg.io/images/2025/01/17/f86cfb01dd415281855473c49e4f75d4.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
